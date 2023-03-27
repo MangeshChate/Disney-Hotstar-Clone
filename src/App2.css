@@ -1,0 +1,23 @@
+.gradient-overlay {
+
+    background: linear-gradient(to top, rgb(10, 14, 23) 10%, rgba(0, 0, 0, 0) 100%);
+    opacity: 1;
+}
+
+.ggg {
+    width: 15rem;
+    transition: .3s;
+}
+
+.ggg:hover {
+    scale:1.1;
+    /* box-shadow: 1rem 1rem 1rem #252525; */
+    border: 2px solid #252525;
+    /* transform: scaleZ(); */
+    /* transform: scaleZ(5rem); */
+    /* width: 17rem; */
+    
+}
+.dodo::-webkit-scrollbar {
+    display: none;
+}
